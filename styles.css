@@ -16,19 +16,19 @@ body {
 }
 
 input {
-    padding: 10px;
-    margin: 10px;
-    font-size: 16px;
+    padding: 11px;
+    margin: 11px;
+    font-size: 18px;
 }
 
 button {
-    padding: 12px;
+    padding: 13px;
     cursor: pointer;
     background-color: #4CAF50;
     color: white;
     border: none;
-    border-radius: 5px;
-    font-size: 16px;
+    border-radius: 6px;
+    font-size: 18px;
 }
 
 .info-card {
@@ -59,7 +59,7 @@ button {
     bottom: 10px;
     right: 10px;
     color: #fff;
-    font-size: 12px;
+    font-size: 14px;
     opacity: 0.8;
 }
 
